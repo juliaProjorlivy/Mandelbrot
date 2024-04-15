@@ -1,0 +1,4 @@
+CompileFlags:
+  Add: [-I/home/julia/projects/Mandelbrot/include, -I/home/julia/projects/Mandelbrot/lib/Verror/include,
+  -I/home/julia/projects/Mandelbrot/include/intr]
+
